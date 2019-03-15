@@ -2,27 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d533a071-8d8b-41ea-93cb-3a920bc0d940" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/03.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_compt.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_examp.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_prac.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_compt.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_examp.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_prac.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/appendix.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/third.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_compt.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_compt_responsive_web.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_compt_반응형 웹 기본구성 폴더.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_compt.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_compt_responsive_web.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_compt.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_compt_responsive_web.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_compt.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_compt_responsive_web_final.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_compt.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_compt_responsive_web_normal.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_compt_반응형 웹 기본구성.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_compt.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_compt_responsive_web_normal.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_responsive_web_normal_final.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01.html" beforeDir="false" afterPath="$PROJECT_DIR$/01.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_compt.html" beforeDir="false" afterPath="$PROJECT_DIR$/01_compt.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_prac.html" beforeDir="false" afterPath="$PROJECT_DIR$/01_prac.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02.html" beforeDir="false" afterPath="$PROJECT_DIR$/02.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_compt.html" beforeDir="false" afterPath="$PROJECT_DIR$/02_compt.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_examp.html" beforeDir="false" afterPath="$PROJECT_DIR$/02_examp.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_prac.html" beforeDir="false" afterPath="$PROJECT_DIR$/02_prac.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first.html" beforeDir="false" afterPath="$PROJECT_DIR$/first.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/second.html" beforeDir="false" afterPath="$PROJECT_DIR$/second.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/첫째마당/1장/실습/01_2.html" beforeDir="false" afterPath="$PROJECT_DIR$/첫째마당/1장/실습/01_2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/third.html" beforeDir="false" afterPath="$PROJECT_DIR$/third.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -34,7 +38,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -51,10 +55,7 @@
       <list>
         <option value="$PROJECT_DIR$/prac.html" />
         <option value="$PROJECT_DIR$/01_01_prac.html" />
-        <option value="$PROJECT_DIR$/style.css" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/third.html" />
-        <option value="$PROJECT_DIR$/second.html" />
         <option value="$PROJECT_DIR$/first.html" />
         <option value="$PROJECT_DIR$/appendix.html" />
         <option value="$PROJECT_DIR$/01.html" />
@@ -73,10 +74,38 @@
         <option value="$PROJECT_DIR$/04_prac.html" />
         <option value="$PROJECT_DIR$/04_examp.html" />
         <option value="$PROJECT_DIR$/04_compt.html" />
+        <option value="$PROJECT_DIR$/style.css" />
+        <option value="$PROJECT_DIR$/08_compt_responsive_web.html" />
+        <option value="$PROJECT_DIR$/08.html" />
+        <option value="$PROJECT_DIR$/07.html" />
+        <option value="$PROJECT_DIR$/05.html" />
+        <option value="$PROJECT_DIR$/05_compt.html" />
+        <option value="$PROJECT_DIR$/05_compt_responsive_web.html" />
+        <option value="$PROJECT_DIR$/05_compt_반응형 웹 기본구성 폴더.html" />
+        <option value="$PROJECT_DIR$/06.html" />
+        <option value="$PROJECT_DIR$/06_compt.html" />
+        <option value="$PROJECT_DIR$/06_compt_responsive_web.html" />
+        <option value="$PROJECT_DIR$/07_compt.html" />
+        <option value="$PROJECT_DIR$/07_compt_responsive_web.html" />
+        <option value="$PROJECT_DIR$/08_compt.html" />
+        <option value="$PROJECT_DIR$/08_compt_responsive_web_final.html" />
+        <option value="$PROJECT_DIR$/second.html" />
+        <option value="$PROJECT_DIR$/third.html" />
+        <option value="$PROJECT_DIR$/09.html" />
+        <option value="$PROJECT_DIR$/09_compt.html" />
+        <option value="$PROJECT_DIR$/09_compt_responsive_web_normal.html" />
+        <option value="$PROJECT_DIR$/09_compt_반응형 웹 기본구성 폴더.html" />
+        <option value="$PROJECT_DIR$/10.html" />
+        <option value="$PROJECT_DIR$/10_compt.html" />
+        <option value="$PROJECT_DIR$/10_compt_responsive_web_normal.html" />
+        <option value="$PROJECT_DIR$/11_compt.html" />
+        <option value="$PROJECT_DIR$/11_compt_responsive_web_final.html" />
+        <option value="$PROJECT_DIR$/11.html" />
+        <option value="$PROJECT_DIR$/11_responsive_web_normal_final.html" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
@@ -85,36 +114,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Response-Web-Server" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Response-Web-Server" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Response-Web-Server" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Response-Web-Server" type="462c0819:PsiDirectoryNode" />
-              <item name="첫째마당" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Response-Web-Server" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Response-Web-Server" type="462c0819:PsiDirectoryNode" />
-              <item name="첫째마당" type="462c0819:PsiDirectoryNode" />
-              <item name="4장" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Response-Web-Server" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Response-Web-Server" type="462c0819:PsiDirectoryNode" />
-              <item name="첫째마당" type="462c0819:PsiDirectoryNode" />
-              <item name="4장" type="462c0819:PsiDirectoryNode" />
-              <item name="완성" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="Scope" />
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -126,10 +127,10 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -157,16 +158,17 @@
       <updated>1552319347406</updated>
       <workItem from="1552319348729" duration="11337000" />
       <workItem from="1552574925410" duration="4352000" />
+      <workItem from="1552658525963" duration="8011000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15689000" />
+    <option name="totallyTimeSpent" value="23700000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="797" height="900" extended-state="6" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25902063" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12896407" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -192,34 +194,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="5" lean-forward="true" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/second.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="35" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/third.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="6" lean-forward="true" selection-start-line="8" selection-end-line="24" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/appendix.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="39" selection-start-line="28" selection-start-column="39" selection-end-line="28" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/첫째마당/1장/실습/source/img_01.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -328,13 +302,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/04.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="33" column="7" lean-forward="true" selection-start-line="33" selection-start-column="7" selection-end-line="33" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/03.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="495">
@@ -346,6 +313,205 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" column="7" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="7" lean-forward="true" selection-start-line="33" selection-start-column="7" selection-end-line="33" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="46" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/둘째마당/psd/main_psd/index.psd">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="46" selection-start-line="21" selection-start-column="46" selection-end-line="21" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05_compt.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="46" selection-start-line="21" selection-start-column="46" selection-end-line="21" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05_compt_responsive_web.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="46" selection-start-line="21" selection-start-column="46" selection-end-line="21" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05_compt_반응형 웹 기본구성 폴더.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="46" selection-start-line="21" selection-start-column="46" selection-end-line="21" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="46" selection-start-line="21" selection-start-column="46" selection-end-line="21" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06_compt.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="46" selection-start-line="21" selection-start-column="46" selection-end-line="21" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06_compt_responsive_web.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="46" selection-start-line="21" selection-start-column="46" selection-end-line="21" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="46" selection-start-line="21" selection-start-column="46" selection-end-line="21" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07_compt.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="46" selection-start-line="21" selection-start-column="46" selection-end-line="21" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07_compt_responsive_web.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="46" selection-start-line="21" selection-start-column="46" selection-end-line="21" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/second.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="46" selection-start-line="21" selection-start-column="46" selection-end-line="21" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08_compt_responsive_web_final.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="46" lean-forward="true" selection-start-line="21" selection-start-column="46" selection-end-line="21" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08_compt.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="46" selection-start-line="21" selection-start-column="46" selection-end-line="21" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="46" selection-start-line="21" selection-start-column="46" selection-end-line="21" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/third.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="7" lean-forward="true" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="7" lean-forward="true" selection-start-line="30" selection-start-column="7" selection-end-line="30" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09_compt_반응형 웹 기본구성.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="40" column="7" lean-forward="true" selection-start-line="40" selection-start-column="7" selection-end-line="40" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09_compt_responsive_web_normal.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="89" selection-start-line="36" selection-start-column="12" selection-end-line="36" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09_compt.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="7" lean-forward="true" selection-start-line="36" selection-start-column="7" selection-end-line="36" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10_compt.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" column="7" lean-forward="true" selection-start-line="35" selection-start-column="7" selection-end-line="35" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="7" lean-forward="true" selection-start-line="30" selection-start-column="7" selection-end-line="30" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11_compt.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" column="7" lean-forward="true" selection-start-line="35" selection-start-column="7" selection-end-line="35" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10_compt_responsive_web_normal.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="39" column="7" lean-forward="true" selection-start-line="39" selection-start-column="7" selection-end-line="39" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appendix.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="7" lean-forward="true" selection-start-line="33" selection-start-column="7" selection-end-line="33" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11_responsive_web_normal_final.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="7" lean-forward="true" selection-start-line="34" selection-start-column="7" selection-end-line="34" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="7" lean-forward="true" selection-start-line="30" selection-start-column="7" selection-end-line="30" selection-end-column="7" />
         </state>
       </provider>
     </entry>
