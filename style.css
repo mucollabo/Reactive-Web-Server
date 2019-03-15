@@ -3,15 +3,18 @@ body{
     font-family: 'Noto Serif SC', serif;
 }
 h1 {
-    border-bottom:10px solid rebeccapurple;
-    padding:20px;
+    border-bottom:3px solid darkblue ;
+    padding:10px;
     margin-bottom:0;
 }
 ul{
-    border-right:10px solid cadetblue;
+    border-right:3px solid cadetblue;
     margin-top:0;
+    margin-bottom:0;
 }
 #container{
     display:grid;
     grid-template-columns: 20% 20% 20% 20% 20%;
+    border-bottom:3px solid midnightblue ;
+    grid-template-rows: 100%;
 }
